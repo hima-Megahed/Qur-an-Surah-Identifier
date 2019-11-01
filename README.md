@@ -17,4 +17,4 @@ We used C# to write our scripts to manipulate files, on the other hand our UI/UX
 * Integrating & Tracking the development process and ensuring team stuck to the plan 	Roadmap
 
 ## License
-This project is an open source project was developed to serve and help other people intersten in arabic speech recognition.
+This project is an open source project was developed to serve and help other people intersting in arabic speech recognition.
